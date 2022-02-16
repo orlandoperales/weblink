@@ -1,0 +1,45 @@
+/*   PALETA DE COLORES AZUL
+primary(darker): #1A374D 
+secondary(normal): #406882 
+light: #6998AB 
+superlight: #B1D0E0
+*/
+.bg-primary {
+    background-color: #1A374D;
+}
+
+.bg-secondary {
+    background-color: #406882;
+}
+
+.bg-light {
+    background-color: #6998AB;
+}
+
+.text-primary {
+    color: #1A374D;
+}
+
+.text-secondary {
+    color: #406882;
+}
+
+.text-light {
+    color: #6998AB;
+}
+
+.text-superlight {
+    color: #B1D0E0;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.width-200 {
+    width: 200px;
+}
